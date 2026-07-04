@@ -5,7 +5,8 @@ A collection of CPP programming programs covering concepts, practice problems, a
 
 ## PRACTICE_CODES
 
-_ _ _
+
+### ARRAY
 
 | SR. No | Program No | Description | Language | Learnings | Link |
 |--------|------------|-------------|----------|-----------|------|
