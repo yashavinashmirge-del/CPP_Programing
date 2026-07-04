@@ -25,3 +25,14 @@ _ _ _
 | 20 | program166 | Default and parameterized constructors in a class | CPP_Programming | Constructor overloading with dynamic memory allocation | [View Code](./PRACTICE_CODES/program166.cpp) |
 
  _ _ _
+
+
+## 📂 Repository Structure
+
+```bash
+C_PROGRAMMING/
+│
+├── CONCEPTS_CODES/
+├── CP_CODES/
+├── PRACTICE_CODES/
+└── README.md
