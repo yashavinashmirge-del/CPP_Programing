@@ -1,5 +1,8 @@
 # CPP_Programing
 
+A collection of CPP programming programs covering concepts, practice problems, and coding exercises.
+
+
 ## PRACTICE_CODES
 
 _ _ _
