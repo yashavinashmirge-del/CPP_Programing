@@ -30,7 +30,7 @@ _ _ _
 ## 📂 Repository Structure
 
 ```bash
-C_PROGRAMMING/
+CPP_PROGRAMMING/
 │
 ├── CONCEPTS_CODES/
 ├── CP_CODES/
