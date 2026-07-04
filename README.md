@@ -1,4 +1,7 @@
 # CPP_Programing
+
+## PRACTICE_CODES
+
 _ _ _
 
 | SR. No | Program No | Description | Language | Learnings | Link |
@@ -23,6 +26,9 @@ _ _ _
 | 18 | program164 | Private data member access error | CPP_Programming | Importance of private access specifier | [View Code](./PRACTICE_CODES/program164.cpp) |
 | 19 | program165 | Class with private members | CPP_Programming | Encapsulation using private data members | [View Code](./PRACTICE_CODES/program165.cpp) |
 | 20 | program166 | Default and parameterized constructors in a class | CPP_Programming | Constructor overloading with dynamic memory allocation | [View Code](./PRACTICE_CODES/program166.cpp) |
+| 21     | program167 | Dynamic array class with constructor and destructor   | CPP_Programming | Dynamic memory allocation using constructors, default arguments, and proper memory deallocation using destructors                          | [View Code](./PRACTICE_CODES/program167.cpp) |
+| 22     | program168 | Accept and display array elements using class methods | CPP_Programming | Object-oriented array handling, user input, member functions (`Accept()` and `Display()`), and dynamic object creation                     | [View Code](./PRACTICE_CODES/program168.cpp) |
+| 23     | program169 | Find the summation of array elements using a class    | CPP_Programming | Class-based array implementation, encapsulation, dynamic memory allocation, member functions, and returning computed values from functions | [View Code](./PRACTICE_CODES/program169.cpp) |
 
  _ _ _
 
